@@ -1,4 +1,4 @@
-### 👋 Hi — I’m Santosh. Backend engineer 💻 | Python and Nodejs
+### 👋 Hi — I’m Santosh. Backend engineer 💻
 
 I build server-side stuff.&nbsp;&nbsp;🏗️&nbsp;🧠🔌
 
