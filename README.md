@@ -28,6 +28,6 @@ Talk is cheap. Click to see my code contributions.
 
 ### I am maintaining following TypeScript packages
 
-- [🛢️➡️📜 sequelize-to-openapi](https://github.com/techntools/sequelize-to-openapi) for data-driven development
+- 🛢️➡️📜 [sequelize-to-openapi](https://github.com/techntools/sequelize-to-openapi) for data-driven development
 
-- [🛢️🔄 sequelize-typescript-migration](https://github.com/techntools/sequelize-typescript-migration) to ease database migration
+- 🛢️🔄 [sequelize-typescript-migration](https://github.com/techntools/sequelize-typescript-migration) to ease database migration
